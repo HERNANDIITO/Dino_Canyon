@@ -1,0 +1,13 @@
+{
+  "InstanceId": "Portals/Portals_Dino_Canyon",
+  "Spawn": {
+    "SpawnReturnPortal": false
+  },
+  "Description": {
+    "DisplayName": "Dino Canyon",
+    "FlavorText": "Be careful with those beasts.",
+    "ThemeColor": "#dd8b8b",
+    "SplashImage": "DefaultArtwork.png"
+  },
+  "VoidInvasionEnabled": false
+}

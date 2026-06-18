@@ -1,0 +1,31 @@
+{
+  "Environments": [
+    "Dino_Upper"
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ],
+  "NPCs": [
+    {
+      "Id": "Cactee",
+      "Weight": 0.001
+    },
+    {
+      "Id": "Lizard_Sand",
+      "Weight": 0.5
+    },
+    {
+      "Id": "Meerkat",
+      "Weight": 0.5
+    },
+    {
+      "Id": "Snake_Rattle",
+      "Weight": 1
+    },
+    {
+      "Id": "Vulture",
+      "Weight": 1
+    }
+  ]
+}

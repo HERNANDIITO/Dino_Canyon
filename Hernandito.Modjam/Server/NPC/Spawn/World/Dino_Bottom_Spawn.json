@@ -1,0 +1,31 @@
+{
+  "NPCs": [
+    {
+      "Id": "Archaeopteryx",
+      "Weight": 0.5
+    },
+    {
+      "Id": "Raptor_Cave",
+      "Weight": 1
+    },
+    {
+      "Id": "Rex_Cave",
+      "Weight": 0.25
+    },
+    {
+      "Id": "Snapdragon",
+      "Weight": 0.5
+    },
+    {
+      "Id": "Spider",
+      "Weight": 1
+    }
+  ],
+  "Environments": [
+    "Dino_Bottom"
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

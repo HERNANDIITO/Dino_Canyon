@@ -1,0 +1,10 @@
+{
+  "Tags": {
+    "Zone1": [
+      "Azure"
+    ]
+  },
+  "WaterTint": "#1983d9",
+  "SpawnDensity": 1,
+  "Parent": "Dino_Parent"
+}

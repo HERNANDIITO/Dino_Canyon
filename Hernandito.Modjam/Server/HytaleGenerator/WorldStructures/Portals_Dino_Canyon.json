@@ -1,0 +1,21 @@
+{
+	"Type": "NoiseRange",
+	"Biomes": [
+		{
+			"Biome": "Dino_Canyon",
+			"Min": 0,
+			"Max": 2
+		}
+	],
+	"Density": {
+		"Type": "Imported",
+		"Name": "Biome-Map-Portals"
+	},
+	"DefaultBiome": "Dino_Canyon",
+	"DefaultTransitionDistance": 16,
+	"MaxBiomeEdgeDistance": 16,
+	"SpawnPositions": {
+		"Name": "Portals-Dino-Spawns",
+		"Type": "BaseHeight"
+	}
+}
